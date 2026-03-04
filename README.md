@@ -6,7 +6,7 @@ Trainee Software Engineer at Mastek with a focus on backend development, cloud t
 - **Languages:** Python, C++, JavaScript  
 - **Backend:** FastAPI, Flask, Django  
 - **Frontend:** Vue.js, Next.js  
-- **Cloud:** AWS (EC2, Lambda, S3, DynamoDB, RDS)  
+- **Cloud:** AWS (EC2, Lambda, S3, DynamoDB, RDS, ELB, VPC)  
 - **DevOps:** Docker, GitLab CI/CD, Terraform  
 - **Tools:** Git, SonarQube  
 
