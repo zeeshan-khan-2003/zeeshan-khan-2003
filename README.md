@@ -1,6 +1,5 @@
 # Hi, I'm Zeeshan Khan 👋
-
-Trainee Software Engineer at Mastek with a focus on backend development, cloud technologies, and modern DevOps practices.
+Software Engineer at Mastek with a focus on backend development, cloud technologies, and modern DevOps practices.
 
 ## 🚀 Tech Stack
 - **Languages:** Python, C++, JavaScript  
